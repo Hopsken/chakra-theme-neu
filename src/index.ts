@@ -1,5 +1,5 @@
-import type { ChakraTheme } from '@chakra-ui/react'
+import type { ChakraTheme } from '@chakra-ui/react';
 
-const theme: Partial<ChakraTheme> = {}
+const theme: Partial<ChakraTheme> = {};
 
-export default theme
+export default theme;
