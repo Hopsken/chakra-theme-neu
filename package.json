@@ -1,0 +1,20 @@
+{
+  "name": "chakra-theme-neu",
+  "version": "1.0.0",
+  "description": "A clean and modern UI kit for you to get your projects started.",
+  "repository": "git@github.com:Hopsken/chakra-theme-neu.git",
+  "author": "hopsken <shaowei5@icloud.com>",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@chakra-ui/react": "^1.6.8",
+    "typescript": "^4.4.3"
+  }
+}
